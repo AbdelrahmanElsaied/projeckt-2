@@ -1,0 +1,31 @@
+
+body{
+    background-color: #000000;
+}
+.modeBtn{
+    width: 120px;
+    height: 60px;
+    color: rgb(121, 91, 91);
+    border: 5px solid rgb(255, 254, 248);
+   
+}
+.modeBtn:hover{
+    color: rgb(17, 1, 1);
+}
+.backMode{
+    background-color: rgb(212, 212, 212);
+}
+.h1{
+    color: #6b705c ;
+}
+.card{
+    background-color: #5f3737;
+    color: white;
+}
+.none{
+    display: none;
+}
+.background{
+    background-color: rgb(121, 58, 58);
+    text-decoration: line-through;
+}
